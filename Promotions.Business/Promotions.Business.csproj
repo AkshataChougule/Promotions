@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Promotions.Core\Promotions.Core.csproj" />
+    <ProjectReference Include="..\Promotions.Repositories\Promotions.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>
